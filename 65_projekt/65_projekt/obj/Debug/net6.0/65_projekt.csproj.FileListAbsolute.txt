@@ -1,0 +1,14 @@
+C:\Tom\programovani\hodiny ve skole\65_projekt\65_projekt\obj\Debug\net6.0\65_projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tom\programovani\hodiny ve skole\65_projekt\65_projekt\obj\Debug\net6.0\65_projekt.AssemblyInfoInputs.cache
+C:\Tom\programovani\hodiny ve skole\65_projekt\65_projekt\obj\Debug\net6.0\65_projekt.AssemblyInfo.cs
+C:\Tom\programovani\hodiny ve skole\65_projekt\65_projekt\obj\Debug\net6.0\65_projekt.csproj.CoreCompileInputs.cache
+C:\Tom\programovani\hodiny ve skole\65_projekt\65_projekt\bin\Debug\net6.0\65_projekt.exe
+C:\Tom\programovani\hodiny ve skole\65_projekt\65_projekt\bin\Debug\net6.0\65_projekt.deps.json
+C:\Tom\programovani\hodiny ve skole\65_projekt\65_projekt\bin\Debug\net6.0\65_projekt.runtimeconfig.json
+C:\Tom\programovani\hodiny ve skole\65_projekt\65_projekt\bin\Debug\net6.0\65_projekt.dll
+C:\Tom\programovani\hodiny ve skole\65_projekt\65_projekt\bin\Debug\net6.0\65_projekt.pdb
+C:\Tom\programovani\hodiny ve skole\65_projekt\65_projekt\obj\Debug\net6.0\65_projekt.dll
+C:\Tom\programovani\hodiny ve skole\65_projekt\65_projekt\obj\Debug\net6.0\refint\65_projekt.dll
+C:\Tom\programovani\hodiny ve skole\65_projekt\65_projekt\obj\Debug\net6.0\65_projekt.pdb
+C:\Tom\programovani\hodiny ve skole\65_projekt\65_projekt\obj\Debug\net6.0\65_projekt.genruntimeconfig.cache
+C:\Tom\programovani\hodiny ve skole\65_projekt\65_projekt\obj\Debug\net6.0\ref\65_projekt.dll
